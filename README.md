@@ -76,7 +76,6 @@ O projeto utiliza os seguintes arquivos de dados:
 * `WTEXT.dat` – Vetores médios dos textos
 * `CLtx.dat` – Classes dos textos
 
-> ⚠️ Os caminhos dos arquivos devem ser ajustados conforme o ambiente local.
 
 ### Execução
 
