@@ -1,6 +1,6 @@
 # Classificação de Comentários com Redes Neurais
 
-## 📌 Descrição do Projeto
+##  Descrição do Projeto
 
 Este projeto tem como objetivo o desenvolvimento de um modelo de **classificação de comentários** utilizando **Redes Neurais Artificiais**, classificando textos como **positivos** ou **negativos**.
 
@@ -8,7 +8,7 @@ A solução utiliza técnicas de **Processamento de Linguagem Natural (PLN)** co
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Linguagem:** Python
 * **Bibliotecas:**
@@ -23,7 +23,7 @@ A solução utiliza técnicas de **Processamento de Linguagem Natural (PLN)** co
 
 ---
 
-## 🧠 Metodologia
+##  Metodologia
 
 ### Extração de Características
 
@@ -57,7 +57,7 @@ O modelo é avaliado utilizando:
 
 ---
 
-## ▶️ Execução do Projeto
+##  Execução do Projeto
 
 ### Pré-requisitos
 
@@ -88,7 +88,7 @@ Execute o script principal em Python. Após o treinamento, o modelo:
 
 ---
 
-## 🧪 Exemplo de Uso
+##  Exemplo de Uso
 
 O sistema classifica comentários como:
 
@@ -99,19 +99,19 @@ Também é possível digitar novos comentários diretamente no terminal e obter 
 
 ---
 
-## 📊 Resultados
+##  Resultados
 
 O modelo apresentou **acurácia satisfatória**, classificando corretamente cerca de 80% dos novos comentários, demonstrando a eficiência do uso de redes neurais na tarefa de análise de sentimentos. A estratégia de vetores médios mostrou-se simples e eficaz, embora limitada por palavras fora do vocabulário.
 
 ---
 
-## 📚 Conclusão
+##  Conclusão
 
 Este projeto demonstra uma aplicação prática de **Inteligência Artificial e PLN** para classificação de sentimentos em textos. A solução desenvolvida atende aos objetivos propostos e serve como base para futuras melhorias, como o uso de embeddings mais robustos ou modelos mais avançados.
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Felipe Filla Vitorino**
 Curso de Tecnologia em Análise e Desenvolvimento de Sistemas – UFPR
